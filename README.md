@@ -1,0 +1,3 @@
+HAPPY NEW YEAR 2022
+
+- This repo is intended to store code snippets related to smart contract/solidity/etc... 
